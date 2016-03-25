@@ -2,6 +2,11 @@
 
 > A curated list of Audio Visualization. The main idea is that everyone can contribute here, so we can center all the informations about Audio Visualization and keep up-to-date.
 
+- [Awesome Audio Visualization](#awesome-audio-visualization)
+  - [Books](topics/books.md)
+  - [Tutorials](topics/tutorials.md)
+  - [Videos](topics/videos.md)
+
 ## Contributing
 
 Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
