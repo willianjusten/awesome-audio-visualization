@@ -6,6 +6,9 @@
 * [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/)
 * [SVG Animated Guitar](http://codepen.io/iamjoshellis/full/qbBKZB/)
 * [Abstract Audio Visualizer using Three.js](http://codepen.io/Francext/full/yIogq/)
+* [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/)
+* [Wireframe WebGL Animation with Three.js](http://codepen.io/pat_hg/full/gamQwr/)
+* [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/)
 
 
 
