@@ -6,7 +6,8 @@
   - [Books](topics/books.md)
   - [Downloads](topics/downloads.md)
   - [Experiments](topics/experiments.md)
-  - [Libraries](topics/libraries.md)
+  - [Libraries Audio](topics/libraries-audio.md)
+  - [Libraries Visualization](topics/libraries-visualization.md)
   - [Tutorials](topics/tutorials.md)
   - [Videos](topics/videos.md)
 
