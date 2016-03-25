@@ -26,4 +26,4 @@
 * [Word Problems](https://www.uberviz.io/viz/word-problems/)
 
 ---
-[Back to Home](https://github.com/willianjusten/awesome-audio-visualization)
+[Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
