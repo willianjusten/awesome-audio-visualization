@@ -13,7 +13,8 @@
 * [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/)
 * [Storytelling with Html5 + CSS3](http://codepen.io/rachelnabors/full/rCost/)
 * [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/)
-
+* [WebGL Spacesphere using Three.js](http://codepen.io/luigimannoni/full/yYZjjV)
+* [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)

@@ -25,6 +25,7 @@
 * [Wave](http://mattdesl.github.io/codevember/3.html)
 * [Word Problems](https://www.uberviz.io/viz/word-problems/)
 * [Here Comes The Sun](http://beatlescode.cc/)
+* [Audio Cloud](http://ma77os.cc/lab/audio-cloud/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
