@@ -11,7 +11,8 @@
 * [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/)
 * [Gooey Effect Audio](http://codepen.io/enjikaka/full/QbJmRJ/)
 * [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/)
-
+* [Storytelling with Html5 + CSS3](http://codepen.io/rachelnabors/full/rCost/)
+* [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/)
 
 
 ---
