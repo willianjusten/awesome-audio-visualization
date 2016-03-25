@@ -9,6 +9,8 @@
 * [Awesome Audio Player](http://codepen.io/alexpierre/full/RNELPV/)
 * [Wireframe WebGL Animation with Three.js](http://codepen.io/pat_hg/full/gamQwr/)
 * [Soundcloud Vinyl Search](http://codepen.io/chrisgannon/full/GpwqgG/)
+* [Gooey Effect Audio](http://codepen.io/enjikaka/full/QbJmRJ/)
+* [CSS Audio Visualizer](http://codepen.io/njmcode/full/WbWyWz/)
 
 
 
