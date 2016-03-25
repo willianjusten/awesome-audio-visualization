@@ -1,6 +1,6 @@
-# Awesome Audio Experiments
+# Awesome Audio Visualization
 
-> A curated list of Audio Experiments. The main idea is that everyone can contribute here, so we can center all the informations about Audio Experiments and keep up-to-date.
+> A curated list of Audio Visualization. The main idea is that everyone can contribute here, so we can center all the informations about Audio Visualization and keep up-to-date.
 
 ## Contributing
 
