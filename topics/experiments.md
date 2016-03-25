@@ -24,6 +24,7 @@
 * [Yume](http://unseen-music.com/yume/)
 * [Wave](http://mattdesl.github.io/codevember/3.html)
 * [Word Problems](https://www.uberviz.io/viz/word-problems/)
+* [Here Comes The Sun](http://beatlescode.cc/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
