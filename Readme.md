@@ -1,5 +1,7 @@
 # Awesome Audio Visualization
 
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization)
+
 > A curated list of Audio Visualization. The main idea is that everyone can contribute here, so we can center all the informations about Audio Visualization and keep up-to-date.
 
 - [Awesome Audio Visualization](#awesome-audio-visualization)
