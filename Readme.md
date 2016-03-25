@@ -7,7 +7,6 @@
   - [Downloads](topics/downloads.md)
   - [Experiments](topics/experiments.md)
   - [Libraries](topics/libraries.md)
-  - [Sites Using](topics/sites-using.md)
   - [Tutorials](topics/tutorials.md)
   - [Videos](topics/videos.md)
 
