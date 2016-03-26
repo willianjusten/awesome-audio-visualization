@@ -5,6 +5,8 @@
 * [Robert Hodgin](http://roberthodgin.com/)
 * [Seb Lee-Delisle](http://seb.ly/)
 * [Raven Kwok](http://ravenkwok.com/)
+* [Chris Wilson](https://github.com/cwilso/)
+* [Kevin Ennis](https://github.com/kevincennis)
 
 
 ---
