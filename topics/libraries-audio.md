@@ -7,6 +7,7 @@
 * [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js)
 * [p5.sound](https://github.com/processing/p5.js-sound)
 * [Audiolet](https://www.jhtrnr.com/Audiolet/)
+* [Echonest](http://the.echonest.com/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
