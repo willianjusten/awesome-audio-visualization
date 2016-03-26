@@ -8,6 +8,7 @@
 * [p5.sound](https://github.com/processing/p5.js-sound)
 * [Audiolet](https://www.jhtrnr.com/Audiolet/)
 * [Echonest](http://the.echonest.com/)
+* [coffee-collider](https://www.npmjs.com/package/coffee-collider)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
