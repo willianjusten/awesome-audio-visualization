@@ -20,7 +20,7 @@
 
 ## Contributing
 
-Your contributions are always welcome! [Click Here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
 
 ## Other Awesome Lists
 
