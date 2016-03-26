@@ -12,6 +12,7 @@
 * [Stuart Memo: JavaScript is the new Punk Rock](https://www.youtube.com/watch?v=PN8Eg1K9xjE)
 * [Jan Krutisch: JavaScript Patterns For Contemporary Dance Music -- JSConf EU 2013](https://www.youtube.com/watch?v=X41IwSyU-BM)
 * [Charlie Roberts: Gibbering at Algoraves - JS in Live Audiovisual Performances - JSConf.Asia 2014](https://www.youtube.com/watch?v=2BIOINFSbMg)
+* [Lauren McCarthy: Learning while making p5js](https://www.youtube.com/watch?v=1k3X4DLDHdc)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
