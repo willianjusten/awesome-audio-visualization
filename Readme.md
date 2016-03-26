@@ -1,5 +1,5 @@
 <p>
-  <img align="center" src="logo-aav.gif" alt="Logo AAV">
+  <img style="display: block;margin: auto;" align="center" src="logo-aav.gif" alt="Logo AAV">
 </p>
 
 
