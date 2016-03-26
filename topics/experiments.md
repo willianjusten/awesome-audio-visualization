@@ -35,6 +35,7 @@
 * [Mmorph](http://mmorph.massivemusic.com/)
 * [Play a cornet to Donald Trump](http://trumpdonald.org/)
 * [Create your Beat Box](https://www.ludensbeatbox.com)
+* [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
