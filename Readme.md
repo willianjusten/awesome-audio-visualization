@@ -14,6 +14,7 @@
   - [Experiments Codepen](topics/experiments-codepen.md)
   - [Libraries Audio](topics/libraries-audio.md)
   - [Libraries Visualization](topics/libraries-visualization.md)
+  - [People to Follow](topics/people-to-follow.md)
   - [Tutorials](topics/tutorials.md)
   - [Videos](topics/videos.md)
 
