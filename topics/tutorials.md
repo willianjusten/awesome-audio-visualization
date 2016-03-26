@@ -6,6 +6,7 @@
 * [Making An Interactive Music Video With WebGL](https://medium.com/@superhighfives/making-a-music-video-f60757ceb4cf#.j72rbcxgk)
 * [Exploring the web audio api with d3](http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html)
 * [Getting Started with Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/)
+* [14 essential JavaScript audio libraries for web developers](http://codecall.net/2014/01/29/14-essential-javascript-audio-libraries-for-web-developers/)
 
 
 ---
