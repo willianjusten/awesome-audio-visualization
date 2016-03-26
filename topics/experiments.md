@@ -38,6 +38,7 @@
 * [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/)
 * [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html)
 * [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html)
+* [Scrollsound](http://zya.github.io/scrollsound/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)

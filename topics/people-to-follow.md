@@ -7,6 +7,7 @@
 * [Raven Kwok](http://ravenkwok.com/)
 * [Chris Wilson](https://github.com/cwilso/)
 * [Kevin Ennis](https://github.com/kevincennis)
+* [Jason Sigal](https://github.com/therewasaguy)
 
 
 ---
