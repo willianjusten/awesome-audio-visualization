@@ -1,4 +1,4 @@
-![Logo AAV](logo-aav.gif)
+<img style="margin:auto;display:block" src="logo-aav.gif" alt="Logo AAV">
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization)
 
