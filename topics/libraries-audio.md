@@ -6,6 +6,7 @@
 * [Pizzicato.js](https://alemangui.github.io/pizzicato/)
 * [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js)
 * [p5.sound](https://github.com/processing/p5.js-sound)
+* [Audiolet](https://www.jhtrnr.com/Audiolet/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
