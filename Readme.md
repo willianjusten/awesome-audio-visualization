@@ -1,4 +1,4 @@
-<p style="display: block;margin: auto;">
+<p align="center">
   <img src="logo-aav.gif" alt="Logo AAV">
 </p>
 
