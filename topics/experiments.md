@@ -1,6 +1,7 @@
 ## Experiments
 > Everyone likes experiments, why not some of them?
 
+* [Luis Henrique Bizarro Portfolio](https://lhbzr.com/)
 * [Adventure Machine](http://www.madeon.fr/adventuremachine/)
 * [APEXvj](https://www.apexvj.com/v3/)
 * [BBNG](https://uberviz.io/viz/bbng/)
@@ -26,6 +27,14 @@
 * [Word Problems](https://www.uberviz.io/viz/word-problems/)
 * [Here Comes The Sun](http://beatlescode.cc/)
 * [Audio Cloud](http://ma77os.cc/lab/audio-cloud/)
+* [Noisy Function of Math and Music](http://naivesound.com/glitch/)
+* [Doodle - 105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday)
+* [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/)
+* [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api)
+* [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/)
+* [Mmorph](http://mmorph.massivemusic.com/)
+* [Play a cornet to Donald Trump](http://trumpdonald.org/)
+* [Create your Beat Box](https://www.ludensbeatbox.com)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
