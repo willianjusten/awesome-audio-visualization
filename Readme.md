@@ -93,6 +93,7 @@
 - [Scootaloo](http://klange.github.io/scootaloo.in/)
 - [CSS Visualizer](http://likethemammal.github.io/css-visualizer/)
 - [Kandinski Experiment](http://jasonsigal.cc/kandinskify/)
+- [Visual Music Trailer](https://vimeo.com/160470393)
 
 ## Experiments on Codepen
 
@@ -135,6 +136,7 @@
 - [Two.js](https://jonobr1.github.io/two.js/)
 - [BabylonJS](http://babylonjs.com/)
 - [Chrome Extension to play with Audio API](https://github.com/spite/WebAudioExtension)
+- [Cinder](https://libcinder.org/)
 
 ## People to Follow
 
