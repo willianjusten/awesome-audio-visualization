@@ -2,14 +2,15 @@
   <img id="awesome-audio-visualization" src="logo-aav.gif" alt="Logo AAV">
 </p>
 
-
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
 > A curated list of Audio Visualization. 
 
 - [Who made this list?](#authors)
 - [Check the logo in action](#logo)
-- [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
+- [Contributing Guide](Contributing.md)
+
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
+-
 
 - [Awesome Audio Visualization](#awesome-audio-visualization)
   - [Books](#books)
