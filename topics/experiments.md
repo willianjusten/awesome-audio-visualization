@@ -50,6 +50,7 @@
 * [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires)
 * [Scootaloo](http://klange.github.io/scootaloo.in/)
 * [CSS Visualizer](http://likethemammal.github.io/css-visualizer/)
+* [Kandinski Experiment](http://jasonsigal.cc/kandinskify/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
