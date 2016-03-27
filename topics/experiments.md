@@ -44,7 +44,7 @@
 * [Music Cube](http://www.808cube.com/)
 * [Music Game - ECHO](http://tonenotone.com/ECHO/)
 * [Patatap](http://www.patatap.com/)
-* [Dancing Rumrya](https://dancing.rumyra.com/complex)
+* [Dancing Rumrya](http://dancing.rumyra.com/complex)
 * [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink)
 * [Simon Says - Game](http://labs.uxmonk.com/simon-says/)
 * [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires)
