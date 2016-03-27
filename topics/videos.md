@@ -19,7 +19,6 @@
 * [Web Audio Tools](http://medias.ircam.fr/x32ba00)
 * [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
 * [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
-* [React.js Conf 2015 - Scalable Data Visualization](https://www.youtube.com/watch?v=2ii1lEkIv1s)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
