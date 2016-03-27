@@ -120,7 +120,7 @@
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/)
 - [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js)
 - [Beeplay.js](https://watilde.github.io/beeplay/)
-- [MIDI.js](https://mudcu.be/midi-js/)
+- [MIDI.js](https://github.com/mudcube/MIDI.js/)
 - [Beep.js](https://github.com/stewdio/beep.js)
 - [p5.sound](https://github.com/processing/p5.js-sound)
 - [Audiolet](https://www.jhtrnr.com/Audiolet/)
@@ -137,6 +137,8 @@
 - [BabylonJS](http://babylonjs.com/)
 - [Chrome Extension to play with Audio API](https://github.com/spite/WebAudioExtension)
 - [Cinder](https://libcinder.org/)
+- [Processing](https://www.processing.org/)
+- [HYPE_processing](http://www.hypeframework.org/)
 
 ## People to Follow
 
