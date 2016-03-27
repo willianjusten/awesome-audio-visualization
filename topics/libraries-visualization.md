@@ -6,6 +6,7 @@
 * [sketch.js](http://soulwire.github.io/sketch.js/)
 * [three.js](http://threejs.org/)
 * [Two.js](https://jonobr1.github.io/two.js/)
+* [BabylonJS](http://babylonjs.com/)
 * [Chrome Extension to play with Audio API](https://github.com/spite/WebAudioExtension)
 
 ---

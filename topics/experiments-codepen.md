@@ -15,6 +15,7 @@
 * [Step sequencer](http://codepen.io/woodwork/full/rxrLqa/)
 * [WebGL Spacesphere using Three.js](http://codepen.io/luigimannoni/full/yYZjjV)
 * [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB)
+* [Oscilator](http://codepen.io/easwee/pen/sFpmo)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)

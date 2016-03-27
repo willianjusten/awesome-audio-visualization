@@ -39,6 +39,17 @@
 * [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html)
 * [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html)
 * [Scrollsound](http://zya.github.io/scrollsound/)
+* [Floraldrift](http://whitevinyldesign.com/floradrift/)
+* [Music Experiment by Brunoimbrizi](http://brunoimbrizi.com/experiments/#/08)
+* [Music Cube](http://www.808cube.com/)
+* [Music Game - ECHO](http://tonenotone.com/ECHO/)
+* [Patatap](http://www.patatap.com/)
+* [Dancing Rumrya](https://dancing.rumyra.com/complex)
+* [Plink - Awesome Multiplayer Game](http://www.dinahmoelabs.com/plink)
+* [Simon Says - Game](http://labs.uxmonk.com/simon-says/)
+* [Soundcloud Visualizer](http://www.michaelbromley.co.uk/experiments/soundcloud-vis/#muse/undisclosed-desires)
+* [Scootaloo](http://klange.github.io/scootaloo.in/)
+* [CSS Visualizer](http://likethemammal.github.io/css-visualizer/)
 
 ---
 [Back to Home](https://github.com/willianjusten/awesome-audio-visualization#awesome-audio-visualization)
