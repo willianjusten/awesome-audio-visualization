@@ -12,6 +12,8 @@
 
 -
 
+## Table of Contents
+
 - [Awesome Audio Visualization](#awesome-audio-visualization)
   - [Books](#books)
   - [Downloads](#downloads)
