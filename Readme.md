@@ -18,6 +18,10 @@
   - [Tutorials](topics/tutorials.md)
   - [Videos](topics/videos.md)
 
+## Logo
+
+If you want to see this awesome logo in action, [take a look here](https://vimeo.com/160489213).
+
 ## Contributing
 
 Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
@@ -28,7 +32,8 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 * [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
 * [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 
-###Autores
+## Authors
+
 | ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)                | ![Luiz Henrique](https://avatars2.githubusercontent.com/u/12835911?v=3&s=150) | ![Márcio Ribeiro](https://avatars3.githubusercontent.com/u/13159727?v=3&s=150)
 |:---------------------:|:-------------------:|:-------------------:|
 |  [Willian Justen](https://github.com/willianjusten/)   |     [Luiz Henrique](https://github.com/lhbzr)    |    [Márcio Ribeiro](https://github.com/marcioshiz)
