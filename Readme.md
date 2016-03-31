@@ -6,7 +6,7 @@
 
 - [What is Audio Visualization?](https://en.wikipedia.org/wiki/Music_visualization)
 - [Who made this list?](#authors)
-- [Check the logo in action](#logo)
+- [Check the logo in action](http://marcioshiz.github.io/aav-logo/)
 - [Contributing Guide](Contributing.md)
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -192,10 +192,6 @@
 - [Web Audio Tools](http://medias.ircam.fr/x32ba00)
 - [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
 - [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
-
-## Logo
-
-If you want to see this awesome logo in action, [take a look here](https://vimeo.com/160489213).
 
 ## Contributing
 
