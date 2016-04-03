@@ -192,6 +192,7 @@
 - [Web Audio Tools](http://medias.ircam.fr/x32ba00)
 - [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
 - [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
+- [Mathieu 'p01' Henri: Making Realtime Audio-Visuals - JSConf.Asia 2015](https://www.youtube.com/watch?v=16oLi1kvLHs)
 
 ## Contributing
 
