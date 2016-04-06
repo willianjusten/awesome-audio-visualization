@@ -95,6 +95,8 @@
 - [Kandinski Experiment](http://jasonsigal.cc/kandinskify/)
 - [Visual Music Trailer](https://vimeo.com/160470393)
 - [Draw and Music](http://rugs.grindselect.com/)
+- [Moogfest Substrate](http://www.moogfest.com/_substrate)
+
 
 ## Experiments on Codepen
 
