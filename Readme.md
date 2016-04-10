@@ -119,6 +119,7 @@
 ## Libraries Audio
 
 - [web-audio-analyser](https://github.com/hughsk/web-audio-analyser)
+- [web-audio-player](https://github.com/Jam3/web-audio-player)
 - [web-media-playback](https://github.com/hughsk/web-media-playback)
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/)
 - [ThreeAudio.js](https://github.com/unconed/ThreeAudio.js)
