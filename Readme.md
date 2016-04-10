@@ -52,7 +52,6 @@
 - [DENNIS](http://www.dennis.video/)
 - [Fluctus](http://jojo.ninja/fluctus/)
 - [George & Jonathan III](http://www.georgeandjonathan.com/)
-- [Gobelins Sound Experiments](http://workshop.crma2016.gobelins.fr/home)
 - [Goy Goy](http://goy-goy.herokuapp.com/)
 - [Lantern](https://www.uberviz.io/viz/lantern/)
 - [Lines](http://labs.fluuu.id/lines/)
