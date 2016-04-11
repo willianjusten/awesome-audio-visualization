@@ -145,6 +145,7 @@
 - [Cinder](https://libcinder.org/)
 - [Processing](https://www.processing.org/)
 - [HYPE_processing](http://www.hypeframework.org/)
+- [The Force](https://github.com/shawnlawson/The_Force) - live coding, shader editing with audio input
 
 ## People to Follow
 
@@ -155,6 +156,7 @@
 - [Chris Wilson](https://github.com/cwilso/)
 - [Kevin Ennis](https://github.com/kevincennis)
 - [Jason Sigal](https://github.com/therewasaguy)
+- [Shawn Lawson](http://shawnlawson.com/)
 
 ## Tutorials
 
