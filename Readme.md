@@ -5,8 +5,11 @@
 > A curated list of Audio Visualization.
 
 - [What is Audio Visualization?](https://en.wikipedia.org/wiki/Music_visualization)
+
+> Music visualization, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
+
 - [Who made this list?](#authors)
-- [Check the logo in action](http://marcioshiz.github.io/aav-logo/)
+- [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](Contributing.md)
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
