@@ -44,11 +44,11 @@
 
 ## Experiments
 
-- [Luis Henrique Bizarro Portfolio](https://lhbzr.com/)
+- **[Luis Henrique Bizarro Portfolio](https://lhbzr.com/)** - Portfolio with experiments using Three.JS and GSLS.
 
-- [Adventure Machine](http://www.madeon.fr/adventuremachine/) - Campaign for Madeon new album Adventure.
+- **[Adventure Machine](http://www.madeon.fr/adventuremachine/)** - Campaign for Madeon new album Adventure.
 
-- [APEXvj](https://www.apexvj.com/v3/) - Next Generation Music Visualizer.
+- **[APEXvj](https://www.apexvj.com/v3/)** - Next Generation Music Visualizer.
 
 - [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for Confessions (feat. Leland Whitty) by BADBADNOTGOOD.
 - [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers new album Born in the Echoes.
