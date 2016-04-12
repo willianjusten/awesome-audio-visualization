@@ -98,6 +98,8 @@
 - [Visual Music Trailer](https://vimeo.com/160470393) - Live audio visual performance ideas.
 - [Draw and Music](http://rugs.grindselect.com/)
 - [Moogfest Substrate](http://www.moogfest.com/_substrate)
+- [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/)
+- [3D Grid](http://rickycodes.github.io/audio-visualizer/three/)
 
 
 ## Experiments on Codepen
