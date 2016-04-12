@@ -99,6 +99,8 @@
 - [Draw and Music](http://rugs.grindselect.com/)
 - [Moogfest Substrate](http://www.moogfest.com/_substrate)
 - [Cubes audio visualizer](http://codepen.io/pat_hg/pen/zvMrRJ)
+- [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/)
+- [3D Grid](http://rickycodes.github.io/audio-visualizer/three/)
 
 
 ## Experiments on Codepen
