@@ -210,12 +210,6 @@
 
 Your contributions are always welcome! [Click here to read the guidelines]().
 
-## Other Awesome Lists
-
-- [Awesome](https://github.com/sindresorhus/awesome)
-- [Awesome-awesome](https://github.com/emijrp/awesome-awesome)
-- [Awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
-
 ## Authors
 
 | ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)                | ![Luis Henrique](https://avatars2.githubusercontent.com/u/12835911?v=3&s=150) | ![Márcio Ribeiro](https://avatars3.githubusercontent.com/u/13159727?v=3&s=150)
