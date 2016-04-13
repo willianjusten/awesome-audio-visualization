@@ -151,6 +151,7 @@
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coding, shader editing with audio input.
+- [Hylogen](https://github.com/sleexyz/hylogen) - purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input)
 
 ## People to Follow
 
