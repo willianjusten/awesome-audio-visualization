@@ -101,6 +101,7 @@
 - [Moogfest Substrate](http://www.moogfest.com/_substrate)
 - [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/)
 - [3D Grid](http://rickycodes.github.io/audio-visualizer/three/)
+- [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 
 
 ## Experiments on Codepen
