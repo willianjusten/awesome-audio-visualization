@@ -308,7 +308,7 @@ environment built for the electronic arts, new media art, and visual design comm
 
 ## Contributing
 
-Your contributions are always welcome! [Click here to read the guidelines]().
+Your contributions are always welcome! [Click here to read the guidelines](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md).
 
 ## Authors
 
