@@ -104,6 +104,7 @@ Beytah.
 - [Flame Gradient](http://rickycodes.github.io/audio-visualizer/gradient/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 - [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
+- [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
 
 ## Experiments on Codepen
 
@@ -121,6 +122,8 @@ Beytah.
 - [WebGL Soundcloud Visualizer using Three.js](http://codepen.io/luigimannoni/full/xbLgqB) - ThreeJS/WebGL Soundcloud player/visualizer based on HTML5 AudioContext API by Luigi Mannoni.
 - [Oscilator](http://codepen.io/easwee/pen/sFpmo) - Testing the oscillator node from HTML5 audio API by Anej Gorkič.
 - [Cubes Audio Visualizer](http://codepen.io/pat_hg/pen/zvMrRJ) - 10th contribution for codevember 2015 by Patrick Heng.
+- [P5 Audio Tests 33] (http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
+- [P5 Audio Tests 27] (http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
 
 ## Libraries Audio
 
