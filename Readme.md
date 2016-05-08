@@ -49,8 +49,7 @@
 - [APEXvj](https://www.apexvj.com/v3/) - Next Generation Music Visualizer.
 - [BBNG](https://uberviz.io/viz/bbng/) - WebGL Visualizer for "Confessions" (feat. Leland Whitty) by BADBADNOTGOOD.
 - [Born in the Echoes](http://bornintheechoes.com/) - Campaign for The Chemical Brothers' "Born in the Echoes" album.
-- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music 
-works.
+- [Chrome Music Lab](https://musiclab.chromeexperiments.com/) - Play with simple experiments and explore how music works.
 - [DENNIS](http://www.dennis.video/) - An interactive and audio responsive music video for "Dennis" by popcorn_10's.
 - [Fluctus](http://jojo.ninja/fluctus/) - Experimental 3D Audio Visualizer by Jordan Machado.
 - [George & Jonathan III](http://www.georgeandjonathan.com/) - Campaign for George & Jonathan's "III" album.
@@ -77,13 +76,12 @@ works.
 - [105 Birthday Clara Rockmore](http://www.google.com/doodles/clara-rockmores-105th-birthday) - A Doodle for the Birthday of Clara Rockmore.
 - [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
 - [Tonalhub](https://alemangui.github.io/Tonalhub/?user=webaudio&repository=web-audio-api) - Create music from your github repository by Alejandro Mantecon Guillen.
-- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI 
-keyboard and watch as the lights dance to your music.
-- [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the 
+- [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
+- [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the
 browser and beyond.
 - [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
 - [Ludens Beat Box](https://www.ludensbeatbox.com) - create your BeatBox by Ludens.
-- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by 
+- [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by
 Beytah.
 - [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html) - Play every music until the infinite by Paul Lamere.
 - [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
@@ -106,6 +104,8 @@ Beytah.
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 - [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
 - [Mira: Exploring the potential of the future web](http://mira.activetheory.net/) - An amazing experiment made by Active Theory.
+- [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
+- [A Lonely Orb](http://aureaboros.com/Orb/) - Audio visualization experiment with frequencies of a music.
 
 ## Experiments on Codepen
 
@@ -150,8 +150,7 @@ Beytah.
 - [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 - [Web Audio Extension](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
 - [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
-- [Processing](https://www.processing.org/) - An open source programming language and integrated development 
-environment built for the electronic arts, new media art, and visual design communities.
+- [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
