@@ -105,6 +105,7 @@ Beytah.
 - [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 - [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
+- [Mira: Exploring the potential of the future web](http://mira.activetheory.net/) - An amazing experiment made by Active Theory.
 
 ## Experiments on Codepen
 
