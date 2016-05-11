@@ -104,7 +104,6 @@ Beytah.
 - [3D Grid](http://rickycodes.github.io/audio-visualizer/three/) - Audio visualizer built with HTML5 web audio API by rickycodes.
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 - [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
-- [Mira: Exploring the potential of the future web](http://mira.activetheory.net/) - An amazing experiment made by Active Theory.
 - [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
 - [A Lonely Orb](http://aureaboros.com/Orb/) - Audio visualization experiment with frequencies of a music.
 - [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
