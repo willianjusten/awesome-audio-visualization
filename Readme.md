@@ -187,7 +187,6 @@ Beytah.
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
 - [Web Audio School](http://mmckegg.github.io/web-audio-school/)
 - [Audio visualisation with the web audio api](http://fourthof5.com/audio-visualisation-with-the-web-audio-api)
-- [Beat Detection Using JavaScript and the Web Audio API](http://tech.beatport.com/2014/web-audio/beat-detection-using-web-audio/)
 - [Make Your Browser Dance](https://24ways.org/2013/make-your-browser-dance/)
 - [Audio Visualization with Web Audio and Three.js](http://raathigesh.com/Audio-Visualization-with-Web-Audio-and-ThreeJS/)
 - [Applying Web Audio API with the HTML5 Canvas Element - Part I](https://sonoport.github.io/web-audio-and-canva-partI.html)
