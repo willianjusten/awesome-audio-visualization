@@ -112,6 +112,7 @@
 - [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
 - [Center Your Love](http://cabbi.bo/CenterYourLove/) - Audio visualization experiment by Isaac Cohen.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
+- [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 
 ## Experiments on Codepen
 
@@ -132,7 +133,6 @@
 - [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
 - [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
 - [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
-- [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 
 ## Libraries Audio
 
