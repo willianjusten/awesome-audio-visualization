@@ -113,6 +113,7 @@
 - [Center Your Love](http://cabbi.bo/CenterYourLove/) - Audio visualization experiment by Isaac Cohen.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
+- [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 
 ## Experiments on Codepen
 
@@ -175,6 +176,7 @@
 - [Shawn Lawson](http://shawnlawson.com/) - An experiential media artist creating the computational sublime.
 - [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
 - [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
+- [Mat Preziotte](https://preziotte.com/) - Absurd music visualizations and generative art.
 
 ## Tutorials
 
