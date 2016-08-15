@@ -114,6 +114,7 @@
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
+- [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
 
 ## Experiments on Codepen
 
