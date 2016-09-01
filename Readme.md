@@ -151,6 +151,7 @@
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
+- [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 
 ## Libraries Visualization
 
