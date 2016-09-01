@@ -115,6 +115,7 @@
 - [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 - [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
+- [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
 
 ## Experiments on Codepen
 
