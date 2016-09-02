@@ -116,6 +116,7 @@
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 - [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
+- [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
 
 ## Experiments on Codepen
 
