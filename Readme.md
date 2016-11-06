@@ -118,6 +118,7 @@
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
 - [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
 - [VR Ondes Martenot](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
+- [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 
 ## Experiments on Codepen
 
