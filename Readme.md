@@ -155,6 +155,8 @@
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
+- [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
+- [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
 ## Libraries Visualization
 
@@ -170,6 +172,7 @@
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+- [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
 
 ## People to Follow
 
