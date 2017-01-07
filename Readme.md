@@ -124,6 +124,7 @@
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
 - [The Great Animal Orchestra](http://www.legrandorchestredesanimaux.com/) - An interactive application to accompany an exhibition by musician and bioacoustician Bernie Krause at the Fondation Cartier pour l’art contemporain.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
+- [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
 
 ## Experiments on Codepen
 
@@ -234,6 +235,8 @@
 - [HTML5DevConf: Jordan Santell, "Browser Dance Party: Visualizing Audio with the Web Audio API"](https://www.youtube.com/watch?v=TdgBAhGmoH4)
 - [Praveen Kumar - MIDI.js](https://www.youtube.com/watch?v=xw86fXq2cKM)
 - [Mathieu 'p01' Henri: Making Realtime Audio-Visuals - JSConf.Asia 2015](https://www.youtube.com/watch?v=16oLi1kvLHs)
+- [Paul Adenot: Elements of Dance Music - JSConf.Asia 2015](https://www.youtube.com/watch?v=Ww0jTafmd_w)
+- [8-bit Music Theory](https://www.youtube.com/channel/UCeZLO2VgbZHeDcongKzzfOw)
 
 ## Contributing
 
