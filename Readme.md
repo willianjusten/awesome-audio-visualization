@@ -127,6 +127,7 @@
 - [The Great Animal Orchestra](http://www.legrandorchestredesanimaux.com/) - An interactive application to accompany an exhibition by musician and bioacoustician Bernie Krause at the Fondation Cartier pour l’art contemporain.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
 - [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
+- [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
 
 ## Experiments on Codepen
 
@@ -146,6 +147,7 @@
 - [P5 Audio Tests 33](http://codepen.io/laurent-thevenet/pen/JGeXNr) - Audio visualization using p5.js 3D elements and Soundcloud API
 - [P5 Audio Tests 27](http://codepen.io/laurent-thevenet/pen/MKJwVd) - Audio visualization using p5.js 3D elements and Soundcloud API
 - [CircleLineNERDDISCO](http://codepen.io/TimPietrusky/full/jrPRZR) - Audio visualization with amazing analyser by Tim Pietrusky.
+- [Clubberize yin yang example](http://codepen.io/wizgrav/pen/PWKNmg) - An example using the clubberize helper to easily integrate clubber.js in javascript apps.
 
 ## Libraries Audio
 
@@ -180,6 +182,7 @@
 - [The Force](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
 - [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
+- [Clubber.js](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 
 ## People to Follow
 
@@ -193,6 +196,7 @@
 - [Matt DesLauriers](https://github.com/mattdesl) - Creative coder at Jam 3.
 - [Patrick Heng](http://hengpatrick.fr/) - Creative front-end developer. Studied at Hetic and Gobelins and works at Grouek.
 - [Mat Preziotte](https://preziotte.com/) - Absurd music visualizations and generative art.
+- [Yannis Gravezas](https://github.com/wizgrav) - A creative coder with several projects featured in chrome experiments, fwa and elsewhere.
 
 ## Tutorials
 
