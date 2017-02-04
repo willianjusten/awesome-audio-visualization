@@ -45,6 +45,7 @@
 
 ## Experiments
 
+- [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art. 
 - [Mubert](http://play.mubert.com/en/) - World's first online music composer
 - [Tangled](http://netlabelday2016.yarnaudio.com/) - Audio-visual release by Berlin based netlabel Yarn Audio, visuals made in [cables](https://cables.gl/). Drag to rotate, scroll to zoom.
 - [Luis Henrique Bizarro Portfolio](https://lhbzr.com/) - Portfolio with experiments using Three.JS and GSLS.
