@@ -114,7 +114,6 @@
 - [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
 - [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
 - [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
-- [Center Your Love](http://cabbi.bo/CenterYourLove/) - Audio visualization experiment by Isaac Cohen.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
