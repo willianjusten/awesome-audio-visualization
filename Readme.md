@@ -87,7 +87,6 @@
 - [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
 - [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
 - [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
-- [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html) - Play every music until the infinite by Paul Lamere.
 - [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
 - [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
 - [Floraldrift](http://whitevinyldesign.com/floradrift/) - Procedurally generated music and visuals.
@@ -108,7 +107,6 @@
 - [obsidian](http://mrdoob.com/files/temp/xplsv_obsidian/) - 3D Audio Visualization made by the creator of Three.js.
 - [TRIF](http://trif.it/) - GIF-based online radio visualization using webaudio API and raw CSS
 - [Garbage Collector](http://robertbue.no/playground/webgl/gc-effect/) - Audio visualization experiment made with Three.js and some post-processing.
-- [A Lonely Orb](http://aureaboros.com/Orb/) - Audio visualization experiment with frequencies of a music.
 - [Audiograph](http://audiograph.xyz/) - Amazing audio visualization made by Matt DesLauriers.
 - [Happy Monday](http://makiopolis.com/everyday/026/) - Musical experiment using THREE.MeshLine by David Ronai.
 - [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
