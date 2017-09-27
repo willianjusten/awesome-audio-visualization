@@ -129,7 +129,8 @@
 - [Andantino](https://alpcanaydin.github.io/andantino/) Listen some notes and try to find same notes on the keyboard.  
 - [Vissonance](https://tariqksoliman.github.io/Vissonance/) A collection of audio visualizers built in THREE.js.
 - [M A I L M A N](http://mailman.acervo.io/) Interactive music video by Bruno Imbrizi for a song called Mailman by Soundgarden.
-- [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser. 
+- [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser.
+- [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
 
 ## Experiments on Codepen
 
