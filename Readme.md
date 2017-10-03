@@ -258,7 +258,7 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 |:---------------------:|:-------------------:|:-------------------:|
 |  [Willian Justen](https://github.com/willianjusten/)   |     [Luis Henrique](https://github.com/lhbzr)    |    [Márcio Ribeiro](https://github.com/marcioshiz)
 
-##License
+## License
 
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
