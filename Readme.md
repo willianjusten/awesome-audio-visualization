@@ -131,7 +131,7 @@
 - [HTML5 Audio Visualizer Video Maker](https://isaiah658.github.io/) Pick your music, background image, customize the visualizer the way you want it, and have the visualizer be recorded all right in your web browser.
 - [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
 - [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
-- [Weekly Music Visualizations](hhttps://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
+- [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
 
 ## Experiments on Codepen
 
