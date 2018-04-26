@@ -191,7 +191,7 @@
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 
 ## People to Follow
-
+- [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
 - [Joshua Davis](http://www.joshuadavis.com/) - An American designer, technologist, author and artist in new media.
 - [Robert Hodgin](http://roberthodgin.com/) - A creative coder living in Brooklyn. Co-creator of the Cinder C++.
 - [Seb Lee-Delisle](http://seb.ly/) - An award-winning digital artist and speaker.
