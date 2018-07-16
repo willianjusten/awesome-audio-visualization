@@ -112,7 +112,6 @@
 - [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
 - [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
-- [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 - [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
@@ -190,6 +189,7 @@
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 - [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
+- [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 
 ## People to Follow
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
