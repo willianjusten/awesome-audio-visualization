@@ -30,6 +30,7 @@
 
 ## Downloads
 
+- [Soundwhich](http://soundwhich.com/)
 - [Beeple's resource (inspirational C4D "open source" files)](http://www.beeple-crap.com/resources.php)
 - [Freesound](http://freesound.org/)
 - [Audio Jungle](http://audiojungle.net/)
