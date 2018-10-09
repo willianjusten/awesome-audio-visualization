@@ -132,6 +132,7 @@
 - [3d Particles Music Visualiser](https://chardos.github.io/music_viz/) Music visualiser done in Three.js by Richard Tan
 - [ShowCQTBar](https://mfcc64.github.io/html5-showcqtbar/) - Audio spectrum visualization with musical scale.
 - [Weekly Music Visualizations](https://github.com/surayashivji/WeeklyGraphics) Weekly music visualization experiments built with Three.js and p5.js by Suraya Shivji.
+- [Audio Visualizer](https://github.com/Teoxoy/audio-visualizer) - An interesting web audio visualizer built with Pixi.js.
 
 ## Experiments on Codepen
 
