@@ -41,7 +41,7 @@
 - [Bed Room Producers Blog](http://bedroomproducersblog.com/free-samples/)
 - [Free Music Archive](http://freemusicarchive.org/)
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
-- [How to Make Eletronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
+- [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 
 ## Experiments
