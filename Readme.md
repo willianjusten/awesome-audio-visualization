@@ -173,6 +173,7 @@
 - [Octavian](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+- [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
   
 
 ## Libraries Visualization
