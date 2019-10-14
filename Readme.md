@@ -46,7 +46,7 @@
 
 ## Experiments
 
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral.
+- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 - [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
 - [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
@@ -122,7 +122,6 @@
 - [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 - [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
 - [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
 - [Polyrhythm](http://www.petervandernoord.nl/polyrhythm/) - An interactive exploration of polyrythmic rhythms.
 - [ClubberToy](https://wizgrav.github.io/clubber/) Several shadertoys, rewired with clubber, bundled as a vj app.
