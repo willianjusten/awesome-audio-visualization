@@ -46,7 +46,7 @@
 
 ## Experiments
 
-- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the archimedean spiral by Sonia Boller.
+- [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 - [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
 - [Finding Love](https://findinglove.activetheory.net/) - fully interactive, Virtual Reality story that transforms emotions into art.
