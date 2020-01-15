@@ -136,6 +136,7 @@
 - [CPPN-based Visualizer](https://tkv.io/posts/visualizing-audio-with-cppns) - Applying compositional pattern-producing networks to generate interesting visuals from audio data.
 - [YouTube Musical Spectrum](https://github.com/mfcc64/youtube-musical-spectrum) - A Chrome extension that offers audio visualization on your YouTube page with nice musical notes.
 - [Just Dance](http://hiteshsahu.com/AudioAnalysis) - A 3D Audio Visualization made with [BabylonJS](http://babylonjs.com/) & 2D Perlin Noise.
+- [audioMotion](https://audiomotion.me) - High-resolution real-time audio spectrum analyzer and full-featured music player written in JavaScript. Includes binaries for Windows, Linux and macOS.
 
 
 ## Experiments on Codepen
@@ -178,7 +179,7 @@
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
 - [audio](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
 - [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
-  
+
 
 ## Libraries Visualization
 
@@ -201,6 +202,7 @@
 - [wavebell](https://github.com/skylerlee/wavebell) - A javascript voice recorder with realtime waveform, using web microphone
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
+- [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
 
 ## People to Follow
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
