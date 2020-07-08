@@ -180,6 +180,7 @@
 - [Aubio](https://aubio.org) - C library for realtime audio labeling with bindings for Python and PD, support for ofx and Vamp.
 - [audio](https://github.com/go-audio/audio) - Generic Go package designed to define a common interface to analyze and/or process audio data
 - [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
+- [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 
 
 ## Libraries Visualization
