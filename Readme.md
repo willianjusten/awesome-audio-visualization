@@ -43,6 +43,8 @@
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+
 
 ## Experiments
 
@@ -207,6 +209,7 @@
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
 - [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
 
 ## People to Follow
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
