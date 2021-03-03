@@ -210,6 +210,7 @@
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
 - [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser. 
 
 ## People to Follow
 - [Aaron Koblin](http://www.aaronkoblin.com/) - Artist, designer, programmer, and entrepreneur specializing in data and digital technologies.
