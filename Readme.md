@@ -26,7 +26,7 @@
 
 ## Books
 
-- [Web Audio API by Boris Smus](http://chimera.labs.oreilly.com/books/1234000001552/index.html)
+- [Web Audio API by Boris Smus](https://webaudioapi.com/book/)
 
 ## Downloads
 
