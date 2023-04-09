@@ -205,7 +205,6 @@
 - [Exploring the web audio api with d3](http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html)
 - [Getting Started with Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/)
 - [14 essential JavaScript audio libraries for web developers](http://codecall.net/2014/01/29/14-essential-javascript-audio-libraries-for-web-developers/)
-- [Learning Web Audio API](http://blog.sonoport.com/post/120993888887/learningwebaudioapi)
 - [Fun with Web Audio API](http://codepen.io/DonKarlssonSan/post/fun-with-web-audio-api)
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
 - [Web Audio School](http://mmckegg.github.io/web-audio-school/)
