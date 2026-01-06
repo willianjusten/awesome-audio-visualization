@@ -76,6 +76,7 @@
 - [Fireworks with WebGL](http://ondras.github.io/fireworks-webgl/) - Sound driven fireworks by Ondřej Žára.
 - [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
 - [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
+- - [Multitrack Audio Visualizer](https://github.com/geoffmyers/multitrack-audio-visualizer) - A real-time audio/music visualizer that displays multi-track waveforms with customizable colors and can export high-quality MP4/H.265 videos.
 - [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
 - [Scrollsound](http://zya.github.io/scrollsound/) - Scrolling as a method of interaction with audio on the web by Ehsan Ziya.
 - [Experiment #8](http://brunoimbrizi.com/experiments/#/08) - Music Experiment by Bruno Imbrizi.
@@ -111,6 +112,7 @@
 - [audioMotion](https://audiomotion.me) - High-resolution real-time audio spectrum analyzer and full-featured music player written in JavaScript. Includes binaries for Windows, Linux and macOS.
 - [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
 - [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
+- [osci-render](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
 
 
 ## Experiments on Codepen
@@ -206,7 +208,6 @@
 - [Exploring the web audio api with d3](http://blog.scottlogic.com/2016/01/06/audio-api-with-d3.html)
 - [Getting Started with Web Audio API](http://www.html5rocks.com/en/tutorials/webaudio/intro/)
 - [14 essential JavaScript audio libraries for web developers](http://codecall.net/2014/01/29/14-essential-javascript-audio-libraries-for-web-developers/)
-- [Learning Web Audio API](http://blog.sonoport.com/post/120993888887/learningwebaudioapi)
 - [Fun with Web Audio API](http://codepen.io/DonKarlssonSan/post/fun-with-web-audio-api)
 - [The Audio Processing Dog House](https://www.objc.io/issues/24-audio/audio-dog-house/)
 - [Web Audio School](http://mmckegg.github.io/web-audio-school/)
