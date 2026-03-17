@@ -113,6 +113,7 @@
 - [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
 - [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
 - [osci-render](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+- [Chorushive](https://chorushive.com) - Real-time Spotify lyric display with 8 visual themes and WebGL animated backgrounds. [Demo](https://chorushive.com/demo) | [GitHub](https://github.com/Greg-RG-GIT/chorushive).
 
 
 ## Experiments on Codepen
