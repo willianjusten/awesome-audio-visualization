@@ -158,6 +158,7 @@
 - [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 - [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 - [meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for audio visualization workflow orchestration, automated media management, and multi-agent coordination. MIT licensed.
 
 
 ## Libraries Visualization
