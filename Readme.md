@@ -98,6 +98,7 @@
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
+- [Phosphor](https://hubertlim.github.io/oscilloscope_playground/) - Web-based oscilloscope simulator with multi-pass phosphor rendering, CRT effects, and real-time audio visualization. Built with Three.js and GLSL shaders.
 - [VR Ondes Martenot](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
 - [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 - [Musical Interactions](https://tympanus.net/Development/MusicalInteractions/) - Some experimental ideas for playful musical interactions.
