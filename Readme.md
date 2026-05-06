@@ -157,6 +157,7 @@
 - [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
 - [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 - [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
+- [realtime-bpm-analyzer](https://github.com/dlepaux/realtime-bpm-analyzer) - Realtime or offline BPM detection in the browser using AudioWorklet. Works with microphone, file, and stream input.
 - [meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
 
