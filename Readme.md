@@ -44,6 +44,7 @@
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [bing-glava-suite](http://github.com/Krzysztofci/bing-glava-suite) - A Python/Tkinter GUI for GLava audio visualizer - automates configuration and provides easy control over appearance and behavior parameters.
 
 
 ## Experiments
@@ -182,7 +183,8 @@
 - [Circular Audio Wave](https://github.com/kelvinau/circular-audio-wave) - A JS library for audio visualization in circular wave using Web Audio API and ECharts
 - [Slang](https://github.com/kylestetz/slang) - An audio programming language built in JS
 - [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
-- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+- [bing-glava-suite](http://github.com/Krzysztofci/bing-glava-suite) - A Python/Tkinter GUI for GLava audio visualizer - automates configuration and provides easy control over appearance and behavior parameters.
 - [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser. 
 
 ## People to Follow
