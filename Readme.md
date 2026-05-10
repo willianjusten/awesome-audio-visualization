@@ -157,6 +157,7 @@
 - [wav](https://github.com/go-audio/wav) - Battle tested Wav decoder/encoder
 - [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 - [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
+- [voicetoinstrument.com](https://voicetoinstrument.com) - Convert voice to instrument tracks using AI
 - [meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 
 
