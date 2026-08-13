@@ -113,6 +113,7 @@
 - [p5.js Audio Visualizer](https://amandayehh.github.io/audio-visualizer/) - A powerful, beat- and amplitude-responsive audio visualizer created with [p5.sound](https://github.com/processing/p5.js-sound), on an HTML5 Canvas by Amanda Yeh.
 - [Tap tempo and metronome with sound effects](https://tapbpmhub.com/) - A metronome with customizable sound effects, capable of calculating bpm with just a click, and also supports synchronization with your MIDI device.
 - [osci-render](https://github.com/jameshball/osci-render) - Software for making music by visualising objects, images, and Blender scenes on an oscilloscope using audio.
+- [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 
 ## Experiments on Codepen
