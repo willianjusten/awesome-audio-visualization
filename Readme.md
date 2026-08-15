@@ -117,6 +117,7 @@
 - [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
+- [VPX-Scope](https://vpx-scope.vercel.app/en/) - Drop a tracker module (.mod, .xm, .it, .s3m) or an MP3/FLAC and watch a per-channel rainbow oscilloscope, one waveform per voice, coloured by zero-crossing rate. Uses libopenmpt compiled to WebAssembly and runs entirely in the tab, nothing is uploaded.
 
 ## Experiments on Codepen
 
