@@ -43,7 +43,8 @@
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
-- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+- [sgram-tui](https://github.com/arian-shamaei/sgram-tui) - A calibrated terminal spectrogram analyzer with live mic input and labeled PNG figure export. 
 
 
 ## Experiments
