@@ -44,6 +44,7 @@
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [SUPERNOVA](https://ovniaudio.com/supernova) - Free, open-source audio-reactive visual synth for macOS: an image or a video becomes 262,144 GPU particles that move with the sound, as a VST3/AU plugin and as a standalone app.
 
 
 ## Experiments
