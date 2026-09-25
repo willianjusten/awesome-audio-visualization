@@ -48,6 +48,7 @@
 
 ## Experiments
 
+- [Syrinx 3D](https://syrinx3d.com/) - Free bird-song analyzer that splits a recording into individual calls and lays them out in 3D as the song plays.
 - [Master Pro Audio Analyzer Suite](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
