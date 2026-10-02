@@ -161,6 +161,7 @@
 - [standardized-audio-context](https://github.com/chrisguttandin/standardized-audio-context) - A cross-browser implementation of the AudioContext which aims to closely follow the standard.
 - [web-audio-beat-detector](https://github.com/chrisguttandin/web-audio-beat-detector) - A beat detection utility which is using the Web Audio API.
 - [meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
+- [eko-web](https://github.com/reactivepixels/eko-web) - Web Audio playback engine with gapless playback, crossfade, loudness normalization and an analyser tap for visualizations.
 
 
 ## Libraries Visualization
