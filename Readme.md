@@ -117,6 +117,7 @@
 - [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
+- [iwrzwr / visual archive](https://www.kagan.in/iwrzwr/visual-archive/) - 160+ open-source sound visualization studies (waveforms, spectrums, matrix displays, particles, rhythm) in plain JavaScript.
 
 ## Experiments on Codepen
 
