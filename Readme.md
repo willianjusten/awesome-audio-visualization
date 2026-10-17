@@ -43,7 +43,8 @@
 - [Music Radar](http://www.musicradar.com/news/tech/free-music-samples-download-loops-hits-and-multis-627820)
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
-- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer.
+- [Infinite](https://infinitedevices.org/) - Free, open-source audiovisual modular workstation with real-time GPU shaders and procedural 3D.
 
 
 ## Experiments
