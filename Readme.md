@@ -187,6 +187,7 @@
 - [audioMotion-analyzer](https://www.npmjs.com/package/audiomotion-analyzer) - High-resolution real-time audio spectrum analyzer JS module with no dependencies.
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
 - [Muser](https://jonshamir.github.io/muser/) - Using machine learning to enhance music visualization in the browser. 
+- [f32nodes](https://github.com/jan-nou/f32nodes) - Python framework for audio-reactive sketches with a live view of every signal.
 
 ## People to Follow
 - [Varun Maurya](https://www.linkedin.com/in/maurya-varun/) - Cloud & Media Systems Engineer, Solutions Architect, Hybrid AV/IT Infrastructure, Live Events & Studio Post-Production Audio Engineer
