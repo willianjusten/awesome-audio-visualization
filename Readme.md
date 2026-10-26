@@ -118,6 +118,8 @@
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
 
+- [FLAC & Hi-Res Audio Checker](https://theaudiostuff.com/tools/hires-audio-checker/) - Drop in an audio file to see its FFT spectrum and where the frequency content stops, to spot upsampled or lossy-sourced "hi-res" files. Runs entirely in the browser, no upload.
+
 ## Experiments on Codepen
 
 - [SVG Animated Drum Kit](http://codepen.io/iamjoshellis/full/KVdQqm/) - Play an amazing Drum made with SVG and realistic sounds by @iamjoshellis.
