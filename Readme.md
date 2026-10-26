@@ -117,6 +117,7 @@
 - [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
+- [Toaster](https://toaster.locust.lol) - Listens to whatever's playing and writes it out as Strudel code as it goes (kick, hats, bass, chords), with audio-reactive scenes behind the code. Runs in the browser, or as a Windows/Mac app. [Source](https://github.com/StopBanning/toaster).
 
 ## Experiments on Codepen
 
