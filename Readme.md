@@ -44,6 +44,7 @@
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [AudioLens](https://github.com/SimZhou/vscode-audiolens) - A VS Code audio viewer with multi-channel waveforms, spectrograms, and selection analysis, including raw PCM and Remote SSH support.
 
 
 ## Experiments
