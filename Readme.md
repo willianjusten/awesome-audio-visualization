@@ -47,6 +47,7 @@
 
 
 ## Experiments
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Native macOS corner companion displaying current album art and title matched to dominant color.
 
 - [Master Pro Audio Analyzer Suite](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
