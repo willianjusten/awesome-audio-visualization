@@ -44,6 +44,7 @@
 - [How to Make Electronic Music Freebies](http://howtomakeelectronicmusic.com/category/freebies)
 - [Motion Sound](http://motionsound.io/)
 - [Cava](https://github.com/karlstav/cava#latency-notes) - A cross-platform terminal visualizer. 
+- [miniam](https://github.com/Wian1977/miniam) - Apple Music in the terminal with true-color album art and a live spectrum that follows each frequency band.
 
 
 ## Experiments
