@@ -117,6 +117,7 @@
 - [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
+- [AVIZ](https://aviz.studio/) - Music visualizer and VJ software in the browser and on Mac: 114 WebGL effects driven by the kick, bass and drops of a track, scenes built from nodes, video export.
 
 ## Experiments on Codepen
 
