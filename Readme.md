@@ -117,6 +117,7 @@
 - [Nutilz Audio Waveform Generator](https://nutilz.com/audio-waveform-generator) - Upload an MP3, WAV, OGG, M4A or FLAC file and instantly generate a customizable waveform visualization (bars, mirrored bars, or line) using the Web Audio API, downloadable as a PNG. Runs entirely in the browser, no upload.
 
 - [DjMirror Pulse](https://djmirror.com/) - Real-time audio-reactive visuals and DMX lighting control for live DJ sets, as a standalone desktop application.
+- [Audio Visualizer Online](https://audiovisualizeronline.com/) - Offline browser audio visualizer using WebCodecs, Web Audio API & Canvas 2D to export 1080p MP4 (with AAC priming sync), lossless 32-bit RGBA PNG-in-MOV, transparent GIF, and vector SVG with zero server uploads.
 
 ## Experiments on Codepen
 
