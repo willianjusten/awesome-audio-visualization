@@ -49,6 +49,7 @@
 ## Experiments
 
 - [Master Pro Audio Analyzer Suite](https://github.com/varunmaurya-git/Master-Pro-Audio-Analyzer) - 100% private, client-side Web Audio analyzer with 8192-FFT Spectrogram, RTA, and Phase Scope.
+- [AIAC Fake FLAC Spectrogram](https://aiac.app/fake-flac-checker/) - Zero-upload browser 80-slice 2048-point FFT spectrogram visualizer and raw FLAC STREAMINFO analyzer for spotting upscaled lossy audio.
 - [Audible Visuals](https://soniaboller.github.io/audible-visuals/) - Collection of visualizers derived from the Archimedean spiral by Sonia Boller.
 - [React Player](https://dazzling-jang-471a34.netlify.com/) - A complete Audio Visualisation player with ReactJS.
 - [Moire](http://hughsk.io/moire-1/) - A Web Audio / WebGL visualisation.
